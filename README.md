@@ -1,2 +1,3 @@
 # Stock_prediction
-Regression system for establishing
+Predicts stock prices through using a linear regression model
+Python
